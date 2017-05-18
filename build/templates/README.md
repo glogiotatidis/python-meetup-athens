@@ -35,7 +35,7 @@ Schedule, code and other assets for Python Meetup Athens.
   {%- endfor %}
 
 {% if presentation.slides %}
-**Διαφάνειες:** [{{ presentation.slides }}]({{ presentation.code }})
+**Διαφάνειες:** [{{ presentation.slides }}]({{ presentation.slides }})
 {% endif %}
 {% if presentation.code %}
 **Κώδικας:** [{{ presentation.code }}]({{ presentation.code }})

@@ -33,6 +33,7 @@
         - name: Μιχάλης Πετυχάκης
           twitter: mpetyx
           website: https://apilama.com/
+      slides: ./assets/presentations/2017-05-07%20API%20Standards.pdf
 - name: Συνάντηση 2017.04 - Serverless Computing
   when: 2017-04-02 18:00
   where: Hackerspace.gr

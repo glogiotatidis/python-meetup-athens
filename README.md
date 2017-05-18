@@ -54,6 +54,8 @@ Web APIs.
     
 
 
+**Διαφάνειες:** [./assets/presentations/2017-05-07%20API%20Standards.pdf](./assets/presentations/2017-05-07%20API%20Standards.pdf)
+
 
 
 
