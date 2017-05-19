@@ -21,8 +21,7 @@ Schedule, code and other assets for Python Meetup Athens.
 **Παρουσιαστές:** {% for presenter in presentation.presenters -%}
     {{ presenter.name }} {% if presenter.github -%}
         [GitHub](https://github.com/{{ presenter.github }}) |
-    {%- endif %}
-    {% if presenter.website -%}
+    {%- endif %}{% if presenter.website -%}
         [Website]({{ presenter.website }})  |
     {%- endif %}
     {%- if presenter.twitter -%}

@@ -32,8 +32,7 @@ Web APIs.
 Τεχνικές scraping στατικών αλλά και δυναμικών javascript σελίδων
 
 
-**Παρουσιαστές:** Κωνσταντίνος Σιατερλής [GitHub](https://github.com/siakon89) |
-    [Website](https://mydataminingsite.com/)  |
+**Παρουσιαστές:** Κωνσταντίνος Σιατερλής [GitHub](https://github.com/siakon89) |[Website](https://mydataminingsite.com/)  |
     [LinkedIn](https://www.linkedin.com/in/siaterliskonstantinos/)
     
 
@@ -48,8 +47,7 @@ Web APIs.
 - Hands On examples: Idea, Design, Testing, Deploy to AWS in less than 5 minutes
 
 
-**Παρουσιαστές:** Μιχάλης Πετυχάκης 
-    [Website](https://apilama.com/)  |[Twitter](https://twitter.com/mpetyx) |
+**Παρουσιαστές:** Μιχάλης Πετυχάκης [Website](https://apilama.com/)  |[Twitter](https://twitter.com/mpetyx) |
     
     
 
@@ -83,7 +81,6 @@ serverless computing. Γνώση της Python είναι θεμιτή αλλά 
 
 
 **Παρουσιαστές:** Γιώργος Ζωγράφος 
-    [Website](https://mydataminingsite.com/)  |
     [LinkedIn](https://www.linkedin.com/in/george-zografos-285a404b)
     
 
@@ -95,8 +92,7 @@ serverless computing. Γνώση της Python είναι θεμιτή αλλά 
 
 
 
-**Παρουσιαστές:** Γιώργος Λογιωτατίδης 
-    [Website](https://giorgos.sealabs.net)  |[Twitter](https://twitter.com/glogiotatidis) |
+**Παρουσιαστές:** Γιώργος Λογιωτατίδης [Website](https://giorgos.sealabs.net)  |[Twitter](https://twitter.com/glogiotatidis) |
     [LinkedIn](https://www.linkedin.com/in/glogiotatidis/)
     
 
