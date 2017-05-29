@@ -37,6 +37,8 @@ Web APIs.
     
 
 
+**Διαφάνειες:** [./assets/presentations/2017-05-07%20Collecting%20Data%20from%20the%20Web.pdf](./assets/presentations/2017-05-07%20Collecting%20Data%20from%20the%20Web.pdf)
+
 
 
 
