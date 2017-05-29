@@ -49,6 +49,7 @@
       presenters:
         - name: Γιώργος Ζωγράφος
           linkedin: https://www.linkedin.com/in/george-zografos-285a404b
+      slides: https://www.slideshare.net/adaplo/introduction-to-aws-lambda-with-python
     - name: Building your status pages with AWS Lambda + GitHub Pages
       presenters:
         - name: Γιώργος Λογιωτατίδης

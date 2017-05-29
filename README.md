@@ -87,6 +87,8 @@ serverless computing. Γνώση της Python είναι θεμιτή αλλά 
     
 
 
+**Διαφάνειες:** [https://www.slideshare.net/adaplo/introduction-to-aws-lambda-with-python](https://www.slideshare.net/adaplo/introduction-to-aws-lambda-with-python)
+
 
 
 
